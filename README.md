@@ -1,8 +1,8 @@
 
 # cube-ui [![Build Status](https://travis-ci.org/didi/cube-ui.svg?branch=master)](https://travis-ci.org/didi/cube-ui?branch=master) [![codecov.io](http://codecov.io/github/didi/cube-ui/coverage.svg?branch=master)](http://codecov.io/github/didi/cube-ui?branch=master) [![downloads](https://img.shields.io/npm/dm/cube-ui.svg)](https://www.npmjs.com/package/cube-ui)
 
-> A fantastic mobile ui lib implement by Vue.
-
+> A fantastic mobile ui lib  implement by Vue.
+ 
 
 ### Links
 
